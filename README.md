@@ -105,12 +105,14 @@ Publish the website using the domain name
 </html>
 ```
 
+### Home Page:
+![output](/homepage.png)
+
 ## OUTPUT:
 ![output](/area%20of%20triangle.png)
 
 
-### Home Page:
-![output](/homepage.png)
+
 
 
 ## Result:
